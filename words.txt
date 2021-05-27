@@ -8,8 +8,6 @@ stream graph
 small multiples
 horizon graph
 exploratory data analysis
-stem and leaf plot
-qq plot
 splom
 parallel coordinates
 map
