@@ -1,31 +1,31 @@
-{visual encodings,
-graphical perception,
-view source,
-svg,
-index chart,
-stacked graph,
-stream graph,
-small multiples,
-horizon graph,
-exploratory data analysis,
-stem and leaf plot,
-qq plot,
-splom,
-parallel coordinates,
-map,
-cartographic projection,
-flow map,
-choropleth map,
-graduated symbol map,
-cartogram,
-hierarchy,
-node-link diagram,
-dendogram,
-interactive exploration,
-adjacency diagram,
-enclosure diagram,
-squarified,
-network,
-force directed layout,
-arc diagram,
-matrix view}
+visual encodings
+graphical perception
+view source
+svg
+index chart
+stacked graph
+stream graph
+small multiples
+horizon graph
+exploratory data analysis
+stem and leaf plot
+qq plot
+splom
+parallel coordinates
+map
+cartographic projection
+flow map
+choropleth map
+graduated symbol map
+cartogram
+hierarchy
+node-link diagram
+dendogram
+interactive exploration
+adjacency diagram
+enclosure diagram
+squarified
+network
+force directed layout
+arc diagram
+matrix view
